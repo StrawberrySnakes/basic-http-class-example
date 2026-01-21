@@ -1,0 +1,17 @@
+{
+  "name": "basic-http-class-example",
+  "version": "1.0.0",
+  "description": "Class work",
+  "main": "./src/server.js",
+  "scripts": {
+    "pretest": "eslint ./src --fix",
+    "test": "echo \"test complete\""
+  },
+  "author": "DJ",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.32.0"
+  }
+}
